@@ -9,3 +9,8 @@ Advent of Code 2023 in GO
 - Relatively easier than Day1
 - Triple nested loop for parsing the input could be improved using regex
 - Used Hash maps for both p1 and p2(tracking minimum set of cubes)
+
+## Day 3 Not completed
+- Matrix Operations :(
+- It is painfull trying to work with Matrixes in Go
+- Hopefully comeback to this problem and maybe do it python or JS
