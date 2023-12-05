@@ -22,3 +22,9 @@ Advent of Code 2023 in GO
 - Used the logic from P1 to make a helper function for P2 calculating how deep to iterate and add cards to our map with their counts
 - iterate over map values and find sum
 - Only solution that first came to mind was recursive approach 
+
+## Day 5 Completed
+- Was completely stumped on how to put the parsed data and make the mappings
+- Had to look up hints for P1 to complete it
+- P2 was fairly straight forward bruteforce approach took 7mins average to finish checking each seed pair
+-  Can be improved by using go routines 
