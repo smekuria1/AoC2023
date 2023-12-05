@@ -14,3 +14,11 @@ Advent of Code 2023 in GO
 - Matrix Operations :(
 - It is painfull trying to work with Matrixes in Go
 - Hopefully comeback to this problem and maybe do it python or JS
+
+## Day 4 completed
+- Bless Even Days 
+- Used a map to save the wining numbers of game line
+    - Second pass to check if scratch numbers match and increment counts 
+- Used the logic from P1 to make a helper function for P2 calculating how deep to iterate and add cards to our map with their counts
+- iterate over map values and find sum
+- Only solution that first came to mind was recursive approach 
