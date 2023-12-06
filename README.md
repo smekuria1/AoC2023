@@ -28,3 +28,8 @@ Advent of Code 2023 in GO
 - Had to look up hints for P1 to complete it
 - P2 was fairly straight forward bruteforce approach took 7mins average to finish checking each seed pair
 -  Can be improved by using go routines 
+
+# Day 6 Completed
+- Very Straightforward bruteforce approach that worked for both p1 and p2
+- Had to adjust parsing slightly for P2 and used the same algorithm
+- Quadratic math approach might improve run time but its already super fast 
