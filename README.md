@@ -33,3 +33,8 @@ Advent of Code 2023 in GO
 - Very Straightforward bruteforce approach that worked for both p1 and p2
 - Had to adjust parsing slightly for P2 and used the same algorithm
 - Quadratic math approach might improve run time but its already super fast 
+
+# Day 7 P1 completed
+- Didn't have time to attempt P2
+- P1 took a lot of time although i believe the problem was not that complicated 
+- Getting comfortable using maps and slices for parsinng and solving problems
