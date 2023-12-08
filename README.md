@@ -38,3 +38,11 @@ Advent of Code 2023 in GO
 - Didn't have time to attempt P2
 - P1 took a lot of time although i believe the problem was not that complicated 
 - Getting comfortable using maps and slices for parsinng and solving problems
+
+
+# Day 8 
+- First tried to use a custom built graph struct failed miserably cause of cycles
+- Used a map with Node struct as values for left and right 
+- Previous parsing functions made working with this input very easy and efficient 
+- Had Absolutely no idea how to do P2 until I read LCM on the Reddit
+- Same parsing and building the map only adjusted the traversal and used LCM function from the internet
